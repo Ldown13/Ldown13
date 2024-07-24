@@ -106,6 +106,17 @@
 
 ###
 
+<p align="left">Networking tools</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/fortinet/#EE3124" height="40" alt="vscode logo"  />
+  <img width="12" />
+  
+</div>
+###
+
 <p align="left">Operating Systems</p>
 
 ###
