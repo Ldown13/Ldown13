@@ -86,7 +86,7 @@
 
 ###
 
-<p align="left">IDE and Software</p>
+<p align="left">IDE and Softwares</p>
 
 ###
 
