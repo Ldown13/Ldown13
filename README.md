@@ -118,7 +118,7 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" height="40" alt="azure active directory logo"  />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/vmware-1.svg" height="20" alt="VMware logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/vmware-1.svg" height="15" alt="VMware logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/eset-logo.svg" height="20" alt="ESET logo"  />
   <img width="12" />
