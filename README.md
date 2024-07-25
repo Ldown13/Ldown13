@@ -103,6 +103,9 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" height="40" alt="Microsoft365 logo"  />
   <img width="12" />
+  <img src="https://www.appvizer.com/media/application/260/logo/260.png" height="40" alt="PydioCells logo"  />
+  <img width="12" />
+  
 </div>
 
 ###
