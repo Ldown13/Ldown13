@@ -100,6 +100,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" height="40" alt="Microsoft365 logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -115,7 +118,10 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" height="40" alt="azure active directory logo"  />
   <img width="12" />
-  
+  <img src="https://cdn.worldvectorlogo.com/logos/vmware-1.svg" height="40" alt="VMware logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/eset-logo.svg" height="40" alt="ESET logo"  />
+  <img width="12" />
 </div>
 
 ###
