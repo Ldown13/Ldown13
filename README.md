@@ -115,8 +115,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/fortinet/#EE3124" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" height="40" alt="azure active directory logo"  />
