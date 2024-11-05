@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Ldown, IT student in coding, networking and cybersecurity !</h2>
+<h2 align="left">Hi 👋! I'm Awen (Ldown), IT student in coding, networking and cybersecurity !</h2>
 
 ###
 
