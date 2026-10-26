@@ -1,4 +1,4 @@
-# Hi 👋! I'm Awen (Ldown), IT student learning coding, networking and cybersecurity !
+# Hi 👋! I'm Awen (Ldown), an IT student learning programing, networking and cybersecurity !
 
 ---
 
@@ -6,7 +6,22 @@
 
 ---
 
-### Programming Languages
+### IT Security tools
+
+<div align="left">
+  nuclei
+  Nmap
+  wireshard
+  Metasploit
+  Nessus
+  Burp Suite
+  wazuh/graylog
+  Firewalls (fortinet, UFW et FirewallD)
+  KeePass
+  VPN (Microsoft Always-ON, ProtonVPN, OpenVPN)
+</div>
+
+### Programing Languages
 
 #### Front-end
 
@@ -106,11 +121,13 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
+  kali
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  windows server
+  android
+  
 </div>
 
 ### Other
