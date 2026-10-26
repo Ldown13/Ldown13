@@ -156,13 +156,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ldown&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ldown&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ldown&color=2ea043&style=flat-square" alt="Profile views" />
 </div>
