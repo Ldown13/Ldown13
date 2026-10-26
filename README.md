@@ -120,6 +120,7 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" height="40" alt="Microsoft365 logo"  />
   <img width="12" />
+  davinci resolve
 </div>
 
 --- 
