@@ -48,6 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  mongodb
 </div>
 
 ### Dev-tools
@@ -57,6 +58,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
+  nginx
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
@@ -81,13 +83,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" height="40" alt="Microsoft365 logo"  />
-  <img width="12" />
-  <img src="https://www.appvizer.com/media/application/260/logo/260.png" height="40" alt="PydioCells logo"  />
-  <img width="12" />
-  
 </div>
 
 ### Networking tools
@@ -101,9 +96,10 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/eset-logo.svg" height="20" alt="ESET logo"  />
   <img width="12" />
+  fortinet
 </div>
 
-### Operating Systems 
+### Operating Systems 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
@@ -115,6 +111,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+</div>
+
+### Other
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" height="40" alt="Microsoft365 logo"  />
+  <img width="12" />
 </div>
 
 --- 
