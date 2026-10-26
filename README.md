@@ -1,152 +1,142 @@
-# Hi 👋! I'm Awen (Ldown), an IT student learning programing, networking and cybersecurity !
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Awen+(Ldown);IT+Student+%F0%9F%8E%93;Networking+%F0%9F%8C%90+%26+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+<a href="https://www.root-me.org/Ldown_?lang=fr"><img src="https://img.shields.io/badge/Root--Me-Ldown__-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Root-Me" /></a>
+<a href="https://www.linkedin.com/in/awen-bouillis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:awen.bouillis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://discord.gg/sePb8Kd4S"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+
+</div>
 
 ---
 
-## Technology used in projects
+## 🧑‍💻 About me
+
+- 🎓 IT student passionate about **programming**, **networking** and **cybersecurity**
+- 🛡️ Training on offensive & defensive security (CTF, pentest, SOC tooling)
+- 🌐 Building and securing infrastructures: firewalls, VPN, SIEM, Active Directory
+- 🚩 Solving challenges on [Root-Me](https://www.root-me.org/Ldown_?lang=fr)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/awen-bouillis/) or by [email](mailto:awen.bouillis@gmail.com)
 
 ---
 
-### IT Security tools
+## 🛡️ Cybersecurity
 
-<div align="left">
-  nuclei
-  Nmap
-  wireshard
-  Metasploit
-  Nessus
-  Burp Suite
-  wazuh/graylog
-  Firewalls (fortinet, UFW et FirewallD)
-  KeePass
-  VPN (Microsoft Always-ON, ProtonVPN, OpenVPN)
+**Offensive / Audit**
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Nuclei-4B0082?style=for-the-badge&logo=go&logoColor=white" alt="Nuclei" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nessus-00A6CE?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
+
+**Defensive / Monitoring**
+
+<p>
+  <img src="https://img.shields.io/badge/Wazuh-3595F6?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Graylog-FF3633?style=for-the-badge&logo=graylog&logoColor=white" alt="Graylog" />
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
+  <img src="https://img.shields.io/badge/UFW-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="UFW" />
+  <img src="https://img.shields.io/badge/FirewallD-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="FirewallD" />
+  <img src="https://img.shields.io/badge/ESET-0096A1?style=for-the-badge&logo=eset&logoColor=white" alt="ESET" />
+  <img src="https://img.shields.io/badge/KeePass-6CAC4D?style=for-the-badge&logo=keepassxc&logoColor=white" alt="KeePass" />
+</p>
+
+**VPN**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN" />
+  <img src="https://img.shields.io/badge/Proton_VPN-6D4AFF?style=for-the-badge&logo=protonvpn&logoColor=white" alt="ProtonVPN" />
+  <img src="https://img.shields.io/badge/Always_On_VPN-0078D4?style=for-the-badge&logo=gitforwindows&logoColor=white" alt="Microsoft Always On VPN" />
+</p>
+
+---
+
+## 🌐 Networking & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,windows,linux&theme=dark" alt="Azure, Windows, Linux" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=gitforwindows&logoColor=white" height="48" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Entra_ID_(Azure_AD)-0078D4?style=for-the-badge&logo=gitforwindows&logoColor=white" height="48" alt="Azure Active Directory" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="48" alt="VMware" />
+  <img src="https://img.shields.io/badge/PuTTY-0C2D48?style=for-the-badge&logo=gnubash&logoColor=white" height="48" alt="PuTTY" />
+</p>
+
+---
+
+## 💻 Programming
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=html,css,vue,bootstrap&theme=dark" alt="Front-end" />
+
+**Back-end & scripting**
+
+<img src="https://skillicons.dev/icons?i=js,php,nodejs,java,py,cpp,bash&theme=dark" alt="Back-end" />
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" alt="Databases" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle" />
+</p>
+
+---
+
+## 🛠️ Dev tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,wordpress,selenium,npm,git&theme=dark" alt="Dev tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48" alt="Apache" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+</p>
+
+---
+
+## 🧰 IDE & Software
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,anaconda&theme=dark" alt="IDE" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="48" alt="JetBrains" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="Jira" />
+</p>
+
+---
+
+## 🐧 Operating Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=debian,ubuntu,kali,raspberrypi,windows&theme=dark" alt="OS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="48" alt="Android" />
+</p>
+
+---
+
+## 🎨 Other
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva" />
+  <img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" height="48" alt="Microsoft 365" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" height="48" alt="DaVinci Resolve" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ldown&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ldown&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 </div>
 
-### Programing Languages
-
-#### Front-end
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-</div>
-
-#### Back-end and others
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
-
-### Databases
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
-  mongodb
-</div>
-
-### Dev-tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  nginx
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-</div>
-
-### IDE and Softwares
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-</div>
-
-### Networking tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" height="40" alt="azure active directory logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/vmware-1.svg" height="15" alt="VMware logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/eset-logo.svg" height="20" alt="ESET logo"  />
-  <img width="12" />
-  fortinet
-</div>
-
-### Operating Systems 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  kali
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  windows server
-  android
-  
-</div>
-
-### Other
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" height="40" alt="Microsoft365 logo"  />
-  <img width="12" />
-  davinci resolve
-</div>
-
---- 
-
-## Contact Me
-
-<div align="left">
-  <a href="https://discord.gg/sePb8Kd4S"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="mailto:awen.bouillis@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://www.linkedin.com/in/awen-bouillis/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://www.root-me.org/Ldown_?lang=fr#b94877a18a5d513cbd08a329a56c1820"><img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" height="35" alt="rootme logo"  /></a>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ldown&color=2ea043&style=flat-square" alt="Profile views" />
 </div>
