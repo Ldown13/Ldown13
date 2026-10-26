@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Awen+(Ldown);IT+Student+%F0%9F%8E%93;Networking+%F0%9F%8C%90+%26+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-<a href="https://www.root-me.org/Ldown_?lang=fr"><img src="https://img.shields.io/badge/Root--Me-Ldown__-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Root-Me" /></a>
+<a href="https://www.root-me.org/Ldown_?lang=fr"><img src="https://img.shields.io/badge/Root--Me-Ldown__-000000?style=for-the-badge&logo=rootme&logoColor=9FEF00" alt="Root-Me" /></a>
 <a href="https://www.linkedin.com/in/awen-bouillis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:awen.bouillis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://discord.gg/sePb8Kd4S"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
