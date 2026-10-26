@@ -1,14 +1,14 @@
-<h2 align="left">Hi 👋! I'm Awen (Ldown), IT student in coding, networking and cybersecurity !</h2>
+# Hi 👋! I'm Awen (Ldown), IT student learning coding, networking and cybersecurity !
 
-###
+---
 
-<h1 align="left">Technology used in projects</h1>
+## Technology used in projects
 
-###
+---
 
-<p align="left">Front-end</p>
+### Programming Languages
 
-###
+#### Front-end
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -20,11 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
 
-###
-
 <p align="left">Back-end and others</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -42,11 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-###
-
 <p align="left">Databases</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
@@ -60,11 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
-###
-
 <p align="left">Dev-tools</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
@@ -82,11 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
-###
-
 <p align="left">IDE and Softwares</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -108,11 +92,7 @@
   
 </div>
 
-###
-
 <p align="left">Networking tools</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
@@ -125,11 +105,7 @@
   <img width="12" />
 </div>
 
-###
-
 <p align="left">Operating Systems</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
@@ -143,11 +119,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-###
+--- 
 
 <h2 align="left">Contact Me / Account</h2>
-
-###
 
 <div align="left">
   <a href="https://discord.gg/2CrTdJRB"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
