@@ -155,6 +155,8 @@
 </p>
 
 ---
+### A lot of my repositories are private : most of them contain personal information about me and co-workers.
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ldown&color=2ea043&style=flat-square" alt="Profile views" />
