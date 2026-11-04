@@ -14,8 +14,9 @@
 ## 🧑‍💻 About me
 
 - 🎓 IT student passionate about **programming**, **networking** and **cybersecurity**
-- 🛡️ Training on offensive & defensive security (CTF, pentest, SOC tooling)
-- 🌐 Building and securing infrastructures: firewalls, VPN, SIEM, Active Directory
+- 🛡️ Training on offensive & defensive security (CTF, pentest, SOC tooling, threat intelligence)
+- 🌐 Building and securing infrastructures: firewalls, VPN, SIEM, Active Directory, PKI
+- 🔐 Interested in cryptography, identity management and system hardening
 - 🚩 Solving challenges on [Root-Me](https://www.root-me.org/Ldown_?lang=fr)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/awen-bouillis/) or by [email](mailto:awen.bouillis@gmail.com)
 
@@ -32,6 +33,11 @@
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Nessus-00A6CE?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/sqlmap-2E3440?style=for-the-badge&logo=kalilinux&logoColor=white" alt="sqlmap" />
+  <img src="https://img.shields.io/badge/DirBuster-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="DirBuster" />
+  <img src="https://img.shields.io/badge/WPScan-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WPScan" />
+  <img src="https://img.shields.io/badge/Hashcat-4A4A4A?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Hashcat" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="John the Ripper" />
 </p>
 
 **Defensive / Monitoring**
@@ -46,6 +52,13 @@
   <img src="https://img.shields.io/badge/KeePass-6CAC4D?style=for-the-badge&logo=keepassxc&logoColor=white" alt="KeePass" />
 </p>
 
+**Threat Intelligence (CTI)**
+
+<p>
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=for-the-badge&logo=target&logoColor=white" alt="MITRE ATT&CK" />
+  <img src="https://img.shields.io/badge/GeoIP-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="GeoIP" />
+</p>
+
 **VPN**
 
 <p>
@@ -56,11 +69,47 @@
 
 ---
 
+## 🔐 Identity, PKI & Cryptography
+
+**Identity & Access Management**
+
+<p>
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=gitforwindows&logoColor=white" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/Entra_ID_(Azure_AD)-0078D4?style=for-the-badge&logo=gitforwindows&logoColor=white" alt="Entra ID" />
+  <img src="https://img.shields.io/badge/Samba_AD-D84315?style=for-the-badge&logo=linux&logoColor=white" alt="Samba AD" />
+  <img src="https://img.shields.io/badge/LDAP-2C5263?style=for-the-badge&logo=openldap&logoColor=white" alt="LDAP" />
+  <img src="https://img.shields.io/badge/Kerberos-5A2D82?style=for-the-badge&logo=gitforwindows&logoColor=white" alt="Kerberos" />
+</p>
+
+**PKI**
+
+<p>
+  <img src="https://img.shields.io/badge/PKI_(AD_CS)-0078D4?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="PKI AD CS" />
+  <img src="https://img.shields.io/badge/Automated_X.509_Provisioning-721412?style=for-the-badge&logo=openssl&logoColor=white" alt="Automated X.509 provisioning" />
+</p>
+
+**Cryptography**
+
+<p>
+  <img src="https://img.shields.io/badge/RSA-721412?style=for-the-badge&logo=openssl&logoColor=white" alt="RSA" />
+  <img src="https://img.shields.io/badge/Elliptic_Curves_(ECC)-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="Elliptic Curve Cryptography" />
+</p>
+
+---
+
+## 📋 Governance, Risk & Compliance
+
+<p>
+  <img src="https://img.shields.io/badge/Risk_Analysis-F39C12?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Risk Analysis" />
+  <img src="https://img.shields.io/badge/ANSSI_Hardening_Guidelines-000091?style=for-the-badge&logo=linux&logoColor=white" alt="ANSSI hardening guidelines" />
+</p>
+
+---
+
 ## 🌐 Networking & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=gitforwindows&logoColor=white" alt="Windows Server" />
-  <img src="https://img.shields.io/badge/Entra_ID_(Azure_AD)-0078D4?style=for-the-badge&logo=gitforwindows&logoColor=white" alt="Azure Active Directory" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
   <img src="https://img.shields.io/badge/PuTTY-0C2D48?style=for-the-badge&logo=gnubash&logoColor=white" alt="PuTTY" />
 </p>
@@ -85,6 +134,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
@@ -154,8 +204,9 @@
 </p>
 
 ---
-### A lot of my repositories are private : most of them contain personal information about me and co-workers.
----
+
+> [!NOTE]
+> Many of my repositories are private, as most of them contain personal information about me and my co-workers.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ldown&color=2ea043&style=flat-square" alt="Profile views" />
