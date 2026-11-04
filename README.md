@@ -106,16 +106,6 @@
 
 ---
 
-## 🌐 Networking & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=gitforwindows&logoColor=white" alt="Windows Server" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
-  <img src="https://img.shields.io/badge/PuTTY-0C2D48?style=for-the-badge&logo=gnubash&logoColor=white" alt="PuTTY" />
-</p>
-
----
-
 ## 💻 Programming
 
 **Front-end**
@@ -190,6 +180,7 @@
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=gitforwindows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=gitforwindows&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
